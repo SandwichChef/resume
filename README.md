@@ -25,7 +25,7 @@ A consulting company with a focus on Agile (Particularly Scrum, esp. [Scaled Agi
 
 - Assembled and retrofitted many machines and assessed the cost/difficulty of any necessary upgrades or purchases.
 
-#### Scrum Master - Summer of 2020
+#### Scrum Master - Summer of 2019
 
 - Lead a devteam of 5 interns.
 
