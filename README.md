@@ -1,17 +1,51 @@
 # Joshua Money
 
 <jwmonet@protonmail.com>  
-<https://foxears.life>  
 [Github](https://www.github.com/SandwichChef)  
 United States (Texas)
 
 ## Objective
 
-An entry level system administration role, alternatively, any repair or service tech roles. 
+An entry level system administration role, alternatively: any repair, service, or logistics roles
 
 ## Employment
 
-### [Aleph Technologies]() - DFW, Texas
+### [Dollar General](https://www.dollargeneral.com/)
+
+#### Clerk - Early to Mid 2018
+
+- Performed basic cleaning tasks
+- Unloaded freight and stocked all merchandise
+- Ran the register and met the needs/demands of customers
+
+#### Shift Lead / Keyholder - Mid to late 2018
+
+- Opened and closed the store on an as-needed basis
+- Documented and balanced daily reports on received money
+- Transported deposits to the bank
+
+### [Tom Thumb](https://www.tomthumb.com/) - Dallas, Texas
+
+A Texas based subsidiary of Safeway, competitor of Central Market.
+
+#### General Merchandising - 2018 - 2019
+
+- Unloaded freight and stocked the general merchandise section
+- Performed general cleaning duties
+
+#### Barista - 2018 - 2019
+
+- Manned the Starbucks kiosk
+	- Managed inventory, pulled ingredients and frozen items on a daily basis as needed
+	- Provided customers with recommendations and suggestions based on their preferences
+	- Learned the names and preferences of regular customers and pre-emptively started on their beverages of choice
+
+#### Baker - 2018 - 2019
+
+- Baked bread products and stocked the bakery section
+- Decorated cakes
+
+### [Aleph Technologies](https://aleph-technologies.com/) - Richardson/Plano, Texas
 
 A consulting company with a focus on Agile (Particularly Scrum, esp. [Scaled Agile](https://www.scaledagile.com/) and [Scrum Alliance](https://www.scrumalliance.org/))
 
@@ -33,28 +67,36 @@ A consulting company with a focus on Agile (Particularly Scrum, esp. [Scaled Agi
 
 - Assisted in implementing and performing code reviews.
 
-### [Insert Later]
+### [Quiktrip](https://www.quiktrip.com/)
+
+#### Clerk 2020 - 2021
+
+- Performed a number of tasks from the daily assignment worksheet
+
+- Ran the registers and provided customers with customer service
+
+#### Emergency Relief Personnel 2020 - 2021
+
+- Acted as a clerk and travelled within 25 miles to assist with personnel shortages
+
+#### Night Assistant (Assistant Manager)  Q1 2021 - Q2 2021 
+
+- Managed a store overnight until relieved by the morning shift
+
+### [SMS Infocomm](http://www.smsinfocomm.com/)
 
 
-### Contracted Roles
+#### L1 Laptop Technician - 2021 - Present
 
-* [**Add Later**]() - Add later
+- Handles sensitive components utilizing ESD safety precautions 
 
-## Volunteering
+- Engages in whole unit repair of laptops:
+	- Utilizes troubleshooting strategies in order to diagnose problems and identify faulty components
+	- Requisitions necessary parts by communicating with the warehouse department
+	- Replaces damaged components
 
-* **Sometihng I'm sure** (xxyy - xxyy) - Have I done any volunteer work?
-
-## Projects / One-Offs
-
-* [**Add Later**]() - Shucks
-
-## Familiarities / Preferences
-
-**distros**: arch linux, centos, nixos  
-**lang**: bash, python, nix, lua, markdown, json  
-**apps**: nginx, postgresql, photoshop/clip studio, django, synapse/matrix  
-**workflow**: scrum/agile, git, nano, lxc/lxd, vagrant/virtualbox/qemu-kvm, zsh
+- Routinely lifts heavy stacks of material
 
 ## Education
 
-**Richland College** - 2011 -- 2012 - AS with a focus on Computer Science 
+**Lake Highlands High School** - Class of 2011
