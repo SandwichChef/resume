@@ -6,7 +6,7 @@ United States (Texas)
 
 ## Objective
 
-An entry level system administration role, alternatively: any repair, service, or logistics roles
+A system administration role, alternatively: any IT or helpdesk related role
 
 ## Employment
 
